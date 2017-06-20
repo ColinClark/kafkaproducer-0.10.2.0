@@ -1,1 +1,5 @@
 /target/
+.idea/
+src/main/resources/
+kafkaproducer-0.10.2.0.log
+kafka-producer.iml
